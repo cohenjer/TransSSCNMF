@@ -2,7 +2,7 @@
 --------
 ## Contents
 
-This repository contains complements to our paper available [todo, blind review](todo):
+This repository contains complements to our paper available [here](todo) (link to be updated):
 
 - A complement on the link between Attack Decay and CNMF, in Supplementary Material 4 (pdf and markdown).
 
@@ -34,6 +34,6 @@ The notebooks ``Supplementary material xxx`` contain information on how to use t
 To produce Attack Decay patterns, some matlab code is available at `https://code.soundsoftware.ac.uk/projects/decay-model-for-piano-transcription/repository/show/Supplement/code`.
 
 To use, please cite our CNMF manuscript as follows:
-xxx (double blind review), Semi-supervised Convolutive NMF for Automatic Music Transcription, xxx (todo)
+xxx Semi-supervised Convolutive NMF for Automatic Music Transcription (todo)
 
 [1] D. Fagot et. al., Majorization-minimization algorithms for convolutive NMF with beta-divergence, ICASSP 2019.
