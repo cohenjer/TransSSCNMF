@@ -1,0 +1,7 @@
+scipy
+numpy
+numba
+soundfile
+midiutil
+mir_eval
+pandas
